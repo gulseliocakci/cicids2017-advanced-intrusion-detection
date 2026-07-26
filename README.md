@@ -1,11 +1,5 @@
 # Advanced Network Intrusion Detection using CICIDS2017
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-
-![License](https://img.shields.io/badge/License-MIT-green)
-
 > 🇹🇷 **Staj Projesi**
 >
 > Bu depo, zorunlu staj kapsamında geliştirilen ağ saldırı tespit projesinin ileri aşamasını içermektedir. Çalışmada topluluk öğrenmesi (Ensemble Learning), derin öğrenme (Deep Learning) ve boyut indirgeme (Dimensionality Reduction) yöntemleri kullanılarak CICIDS2017 veri seti üzerinde çok sınıflı saldırı tespiti gerçekleştirilmiştir.
