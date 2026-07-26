@@ -1,5 +1,11 @@
 # Advanced Network Intrusion Detection using CICIDS2017
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
 > 🇹🇷 **Staj Projesi**
 >
 > Bu depo, zorunlu staj kapsamında geliştirilen ağ saldırı tespit projesinin ileri aşamasını içermektedir. Çalışmada topluluk öğrenmesi (Ensemble Learning), derin öğrenme (Deep Learning) ve boyut indirgeme (Dimensionality Reduction) yöntemleri kullanılarak CICIDS2017 veri seti üzerinde çok sınıflı saldırı tespiti gerçekleştirilmiştir.
@@ -82,7 +88,7 @@ It extends the preprocessing stage by evaluating advanced machine learning, deep
 
 Bu projede kullanılan eğitim ve test veri dosyaları GitHub deposuna eklenmemiştir.
 
-Bu proje, **network-intrusion-detection-ml** projesinde oluşturulan ön işlenmiş veri dosyalarını kullanmaktadır.
+Bu proje, **[network-intrusion-detection-ml](https://github.com/gulseliocakci/network-intrusion-detection-ml)** projesinde oluşturulan ön işlenmiş veri dosyalarını kullanmaktadır.
 
 Notebook'lar çalıştırılmış (executed) halde paylaşılmıştır. Sonuçlar görüntülenebilir. Ancak hücreleri yeniden çalıştırmak isteyen kullanıcıların gerekli veri dosyalarını **data/** klasörüne eklemeleri gerekmektedir.
 
@@ -99,7 +105,7 @@ Beklenen dosyalar:
 
 The processed dataset files are not included in this repository.
 
-This project uses the processed datasets generated in the **network-intrusion-detection-ml** repository.
+This project uses the processed datasets generated in the **[network-intrusion-detection-ml](https://github.com/gulseliocakci/network-intrusion-detection-ml)** repository.
 
 The notebooks are uploaded with executed outputs, allowing users to inspect all results directly. To rerun the notebooks, place the processed dataset files into the **data/** directory.
 
